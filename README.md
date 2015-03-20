@@ -60,10 +60,34 @@ At the end of the soloist's "caging" gesture, the conductor indicates one last m
 
 # About the poem
 
-... short text about poem and author
-... transcribe the poem
-... link to relevant pages
+Sympathy
+by [**Paul Laurence Dunbar**](http://en.wikipedia.org/wiki/Paul_Laurence_Dunbar) (1872-1906)
 
+I know what the caged bird feels, alas!
+    When the sun is bright on the upland slopes;   
+When the wind stirs soft through the springing grass,   
+And the river flows like a stream of glass;
+    When the first bird sings and the first bud opes,   
+And the faint perfume from its chalice steals—
+I know what the caged bird feels!
+
+I know why the caged bird beats his wing
+    Till its blood is red on the cruel bars;   
+For he must fly back to his perch and cling   
+When he fain would be on the bough a-swing;
+    And a pain still throbs in the old, old scars   
+And they pulse again with a keener sting—
+I know why he beats his wing!
+
+I know why the caged bird sings, ah me,
+    When his wing is bruised and his bosom sore,—
+When he beats his bars and he would be free;
+It is not a carol of joy or glee,
+    But a prayer that he sends from his heart’s deep core,   
+But a plea, that upward to Heaven he flings—
+I know why the caged bird sings!
+
+The musical setting and performative aspects of this piece are meant to capture and cage the song of the bird in two distinct ways. First, the final solo and sustained chord from the choir is captured as an electronic file on the singers' phones. Second, the sound coming from these phones (or speakers in the case of the soloist) is caged by placing it inside a glass container: dampening the sound, but not completely eradicating it.
 
 ## Miscellaneous tips
 
