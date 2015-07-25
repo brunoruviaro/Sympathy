@@ -4,7 +4,7 @@
 Piece for choir and pre-recorded sounds played through cellphones
 Composers: Scot Hanna-Weir and Bruno Ruviaro. First performance: March 6, 2015, at Santa Clara University.
 
-Click [**HERE**](https://www.youtube.com/watch?v=I5LYkciIUOU) to watch it on YouTube.
+Click [**HERE**](https://www.youtube.com/watch?v=5zlc8uxKKfQ) to watch it on YouTube.
 
 # Performance materials
 
@@ -13,8 +13,8 @@ Here's what's needed to perform this piece:
 * A choir and a soprano soloist
 * The score (download it **here**)
 * One mason jar (32-oz, wide mouth) per choir member
-* One smart phone per choir member
-* Audience members with smart phones and willing to participate
+* One smart phone per choir member (audio files for choir are [**here**](https://soundcloud.com/sympathytracks/sets/singer-tracks))
+* Audience members with smart phones and willing to participate (audio files for audience are [**here**](https://soundcloud.com/scu-electronic-music))
 
 # Overview
 
@@ -46,7 +46,7 @@ From this point on, the conductor will indicate open and closed gestures to the 
 
 Each individual in the choir should play a different file from the files available. We have produced such 48 files (this was the number of people in the SCU Concert Choir at the time). Each file contains an individual's voice looped to form a smooth continuous note, together with electronically transformed bird sounds and soft synthesizers. The choir files are all available here:
 
-<https://soundcloud.com/scu-electronic-music/tracks>
+<https://soundcloud.com/sympathytracks/sets/singer-tracks>
 
 ### Final solo
 
@@ -94,6 +94,6 @@ The musical setting and performative aspects of this piece are meant to capture 
 * Choir files can be either streamed directly from soundcloud, or copied directly to smart phones for faster access. You can download all choir files here: (add link with mp3s zipped).
 * Each choir member should play a unique file, chosen according to his/her voice (soprano, alto, tenor, bass). If your choir has more people than the number of files, duplications are allowed.
 * Use a URL shortener (like bit.ly) to provide short, easy-to-type addresses for your audience. In the SCU performance, we had a page like this in the program notes: (add image)
-* 
+
 
 
