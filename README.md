@@ -4,7 +4,11 @@
 Piece for choir and pre-recorded sounds played through cellphones
 Composers: Scot Hanna-Weir and Bruno Ruviaro. First performance: March 6, 2015, at Santa Clara University.
 
-Click [**HERE**](https://www.youtube.com/watch?v=5zlc8uxKKfQ) to watch it on YouTube.
+Click [**here**](https://www.youtube.com/watch?v=5zlc8uxKKfQ) or on the image below to watch it on YouTube.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=5zlc8uxKKfQ
+" target="_blank"><img src="http://img.youtube.com/vi/5zlc8uxKKfQ/hqdefault.jpg" 
+alt="Sympathy" width="480" height="360" border="0" /></a>
 
 # Performance materials
 
