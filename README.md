@@ -1,7 +1,8 @@
 # Sympathy
 ## (I know why the caged bird sings)
 
-Piece for choir and pre-recorded sounds played through cellphones
+Piece for choir and pre-recorded sounds played through cellphones.
+
 Composers: Scot Hanna-Weir and Bruno Ruviaro. First performance: March 6, 2015, at Santa Clara University.
 
 Click [**here**](https://www.youtube.com/watch?v=5zlc8uxKKfQ) or on the image below to watch it on YouTube.
