@@ -16,7 +16,7 @@ alt="Sympathy" width="480" height="360" border="0" /></a>
 Here's what's needed to perform this piece:
 
 * A choir and a soprano soloist
-* The score (download it **here**)
+* The score (download it [**here**](https://ccrma.stanford.edu/~ruviaro/scores/Hanna-Weir_Ruviaro_Sympathy_SATB_smartphones.pdf))
 * One mason jar (32-oz, wide mouth) per choir member
 * One smart phone per choir member (audio files for choir are [**here**](https://soundcloud.com/sympathytracks/sets/singer-tracks))
 * Audience members with smart phones and willing to participate (audio files for audience are [**here**](https://soundcloud.com/scu-electronic-music))
